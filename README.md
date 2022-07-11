@@ -8,4 +8,20 @@
 ----
 
 ## Summary Statistics on Suspension Coils
-![picture alt](
+![picture alt](https://github.com/hushi-aujla/MechaCar_Statistical_Analysis/blob/main/suspension_coil_total_sum.png)
+![picture alt](https://github.com/hushi-aujla/MechaCar_Statistical_Analysis/blob/main/suspension_coil_lot_summary.png)
+* The overall variance in the total summary data does not exceed the 100 psi limit but the variance level in lot 3 is above the 100 psi threshold.
+----
+## T-test on suspension coils
+![picture alt](https://github.com/hushi-aujla/MechaCar_Statistical_Analysis/blob/main/one%20sample%20t%20test.png)
+* T-test for the suspension coils accross all manufacturing lots
+
+![picture alt](https://github.com/hushi-aujla/MechaCar_Statistical_Analysis/blob/main/lot1.png)
+* T-test for lot 1 
+
+![picture alt](https://github.com/hushi-aujla/MechaCar_Statistical_Analysis/blob/main/lot2.png)
+* T-test for lot 2
+
+![picture alt](https://github.com/hushi-aujla/MechaCar_Statistical_Analysis/blob/main/lot3.png)
+* T-test for lot 3
+
