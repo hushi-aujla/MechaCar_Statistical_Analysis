@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 ## Overview of project
-*In this project using R we will
+In this project using R we will
 Markup: *Perform linear regression analysis to indetify the variables that predict the mpg of MechaCar prototypes
         * Collect summary statistics on the pounds per square inch of the suspension cols from the manufacturing lots
         * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
